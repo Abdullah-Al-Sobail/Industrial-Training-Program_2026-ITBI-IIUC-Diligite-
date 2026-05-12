@@ -40,7 +40,7 @@ Each class includes:
       <td><strong>03</strong></td>
       <td>PHP CRUD</td>
       <td><a href="https://youtu.be/9Rx9EG4QU38" class="btn-watch">🎥 Watch</a></td>
-      <td><a href="class03/readme.md" class="btn-notes">📄 Code</a></td>
+      <td><a href="CRUD/index.php" class="btn-notes">📄 Code</a></td>
     </tr>
     <!-- 
      <tr>
