@@ -1,7 +1,7 @@
 
-#  PHP Bootcamp Season01_2025 - 10 Days
+# Industrial-Training-Program_2026-ITBI-IIUC-Diligite- 24 working days(160Hours)
 
-Welcome to the **PHP Bootcamp Season01_2025**! This course is designed for **absolute beginners** to learn PHP from scratch.  
+Welcome to the **Industrial-Training-Program_2026-ITBI-IIUC-Diligite**! This training is designed for **absolute beginners** to learn Production Grade Software Development from scratch.  
 
 Each class includes:  
  **Recorded Session Links**  
