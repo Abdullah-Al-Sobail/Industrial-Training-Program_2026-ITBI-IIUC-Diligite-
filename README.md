@@ -28,7 +28,7 @@ Each class includes:
       <td><strong>01</strong></td>
       <td>Bootstrap Basic To Advanced </td>
       <td><a href="https://youtu.be/4dtY8QBV-kU" class="btn-watch">🎥 Watch</a></td>
-      <td><a href="LearnHub/index.html" class="btn-notes">📄 Notes</a></td>
+      <td><a href="LearnHub/index.html" class="btn-notes">📄 Code</a></td>
     </tr>
     <tr>
       <td><strong>02</strong></td>
@@ -40,7 +40,7 @@ Each class includes:
       <td><strong>03</strong></td>
       <td>PHP CRUD</td>
       <td><a href="https://youtu.be/9Rx9EG4QU38" class="btn-watch">🎥 Watch</a></td>
-      <td><a href="class03/readme.md" class="btn-notes">📄 Notes</a></td>
+      <td><a href="class03/readme.md" class="btn-notes">📄 Code</a></td>
     </tr>
     <!-- 
      <tr>
